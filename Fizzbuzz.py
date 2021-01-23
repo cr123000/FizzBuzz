@@ -1,3 +1,4 @@
+#VS Github Testing
 class Solution():
     def FizzBuzz(self):
         x=self.getInput()
