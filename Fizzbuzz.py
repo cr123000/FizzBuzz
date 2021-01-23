@@ -1,4 +1,4 @@
-#VS Github Testing
+#VS Github Testing 2
 class Solution():
     def FizzBuzz(self):
         x=self.getInput()
